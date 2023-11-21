@@ -21,3 +21,11 @@ Nota:
 Se non vi sentite particolarmente creativi, questa potrebbe essere un’implementazione da seguire per il secondo milestone. Potete scegliere di implementare una soluzione completamente diversa oppure simile, ma in ogni caso cercate di farla vostra.
 screenshot.png
  
+ 1- richiedere il numero di km da percorrere;
+ 2- richiedere l'età del passeggiero;
+ 3- calcolare il prezzo del biglietto in base ai km stabiliti;
+ 4- ? il passeggiero è under 18
+  4.1- applicare uno sconto del 20%
+ 5- ? il passeggiero è over 65
+  5.1- applicare uno sconto del 40%
+ 6- mostrare il risultato nel console.log 
